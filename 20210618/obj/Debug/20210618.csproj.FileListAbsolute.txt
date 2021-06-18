@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\bin\Debug\20210618.exe.config
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\bin\Debug\20210618.exe
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\bin\Debug\20210618.pdb
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\obj\Debug\20210618.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\obj\Debug\_20210618.Mafia.resources
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\obj\Debug\_20210618.Properties.Resources.resources
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\obj\Debug\20210618.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\obj\Debug\20210618.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\obj\Debug\20210618.exe
+C:\Users\user\Desktop\Collection\Collection\20210618\20210618\obj\Debug\20210618.pdb
