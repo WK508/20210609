@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\bin\Debug\20210619_2.exe.config
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\bin\Debug\20210619_2.exe
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\bin\Debug\20210619_2.pdb
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\obj\Debug\20210619_2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\obj\Debug\_20210619_2.Food.resources
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\obj\Debug\_20210619_2.Properties.Resources.resources
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\obj\Debug\20210619_2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\obj\Debug\20210619_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\obj\Debug\20210619_2.exe
+C:\Users\user\Desktop\Collection\Collection\20210619_2\20210619_2\obj\Debug\20210619_2.pdb
