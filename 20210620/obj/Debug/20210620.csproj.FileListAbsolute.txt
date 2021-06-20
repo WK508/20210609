@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\bin\Debug\20210620.exe.config
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\bin\Debug\20210620.exe
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\bin\Debug\20210620.pdb
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\obj\Debug\20210620.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\obj\Debug\_20210620.Lotto.resources
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\obj\Debug\_20210620.Properties.Resources.resources
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\obj\Debug\20210620.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\obj\Debug\20210620.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\obj\Debug\20210620.exe
+C:\Users\user\Desktop\Collection\Collection\20210620\20210620\obj\Debug\20210620.pdb
