@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\bin\Debug\ExamBusLocation_2.exe.config
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\bin\Debug\ExamBusLocation_2.exe
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\bin\Debug\ExamBusLocation_2.pdb
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\obj\Debug\ExamBusLocation_2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\obj\Debug\ExamBusLocation_2.Form1.resources
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\obj\Debug\ExamBusLocation_2.Properties.Resources.resources
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\obj\Debug\ExamBusLocation_2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\obj\Debug\ExamBusLocation_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\obj\Debug\ExamBusLocation_2.exe
+C:\Users\user\Desktop\Collection\Collection\20210629\ExamBusLocation_2\ExamBusLocation_2\obj\Debug\ExamBusLocation_2.pdb

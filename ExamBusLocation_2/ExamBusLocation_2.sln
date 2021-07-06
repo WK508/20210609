@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamBusLocation_2", "ExamBusLocation_2\ExamBusLocation_2.csproj", "{33EE0D26-9BC2-4047-8004-210947423675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33EE0D26-9BC2-4047-8004-210947423675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EE0D26-9BC2-4047-8004-210947423675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EE0D26-9BC2-4047-8004-210947423675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EE0D26-9BC2-4047-8004-210947423675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D26A26C4-60E7-4839-AFC5-570FE8E4FF2C}
+	EndGlobalSection
+EndGlobal
