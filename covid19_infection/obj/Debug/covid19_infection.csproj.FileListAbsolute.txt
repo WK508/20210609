@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\bin\Debug\covid19_infection.exe.config
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\bin\Debug\covid19_infection.exe
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\bin\Debug\covid19_infection.pdb
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\obj\Debug\covid19_infection.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\obj\Debug\covid19_infection.Form1.resources
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\obj\Debug\covid19_infection.Properties.Resources.resources
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\obj\Debug\covid19_infection.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\obj\Debug\covid19_infection.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\obj\Debug\covid19_infection.exe
+C:\Users\user\Desktop\Collection\Collection\20210701\covid19_infection\covid19_infection\obj\Debug\covid19_infection.pdb
