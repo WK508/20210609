@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\bin\Debug\covid19.exe.config
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\bin\Debug\covid19.exe
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\bin\Debug\covid19.pdb
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\obj\Debug\covid19.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\obj\Debug\covid19.Form1.resources
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\obj\Debug\covid19.Properties.Resources.resources
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\obj\Debug\covid19.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\obj\Debug\covid19.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\obj\Debug\covid19.exe
+C:\Users\user\Desktop\Collection\Collection\20210630\covid19\covid19\obj\Debug\covid19.pdb
